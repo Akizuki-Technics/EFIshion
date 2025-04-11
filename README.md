@@ -18,7 +18,7 @@
 - A bootable USB or disk.
 
 ### Steps
-1. Download the latest release from [here](link-to-releases).
+1. Download the latest release from [here](#).
 2. Copy the files to your bootable USB or disk.
 3. Reboot your system and enter the UEFI settings.
 4. Set the USB or disk as the primary boot device.
