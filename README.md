@@ -1,4 +1,6 @@
-<span style="color:red">These Functions are UNDER CONSTRUCTION. Everything Below is WIP, can be change at any moment.</span>
+<span style="color:red">These Functions are UNDER CONSTRUCTION. Everything Below is WIP, can be change at any moment.</span> 
+
+如果你使用中文，请按[这里](/zh_cn.md "中文内容")
 
 # EFIshion
 
